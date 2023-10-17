@@ -15,12 +15,6 @@ This is the main page I'll be using to run the session.
          * Baz
          * Qux
     
-      ### Some Javascript
-      ```js
-      function logSomething(something) {
-        console.log('Something', something);
-      }
-      ```
     </details>
 
 2. 08.45 am: Looker Studio
