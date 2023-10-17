@@ -28,8 +28,7 @@ This is the main page I'll be using to run the session.
 ___
 ## 10.30 am: Break
 ___
-## 10.50 am: Google Colab and Postman
-   - Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/)
+## 10.50 am: Google Colab and Seaborn
    - Using either your new Google account or your personal account, open [Google Colab](https://colab.research.google.com/) in another tab
    - Google Colab's interface and functions:
      - Tools >> Settings >> 
@@ -46,12 +45,24 @@ ___
       - Save
    - More about Colab’s Markdown here
    - Refer to [colab_intro.ipynb](https://github.com/atlas-github/2023fstep25/blob/main/colab_intro.ipynb)
+   - Open a new notebook on [Google Colab](https://colab.research.google.com/)
+   - Try out a few plots on Seaborn:
+      - histplot](https://seaborn.pydata.org/generated/seaborn.histplot.html#seaborn.histplot)
+      - [displot](https://seaborn.pydata.org/generated/seaborn.displot.html#seaborn.displot)
+      - [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot)
+      - [lmplot](https://seaborn.pydata.org/generated/seaborn.lmplot.html#seaborn.lmplot)
+    - Practice:
+      - Load the [CSV](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing) into Colab
+      - Create a [displot](https://seaborn.pydata.org/generated/seaborn.displot.html#seaborn.displot), where x-axis represents `Region`
+      - Create a [catplot](https://seaborn.pydata.org/generated/seaborn.catplot.html#seaborn.catplot), where x-axis is `Profit` and y-axis is `Sub-Category`
+      - Adjust the size of charts by `sns.set(rc={'figure.figsize':(25.7,8.27)})`
+      - Create a [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot) where x-axis is `Sales`, and y-axis is `Region`
 ___   
 ## 12:30 pm: Break
 ___
 
 ## 1:15 pm: [data.gov.my](https://data.gov.my/dashboard)
-
+   - Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/)
 
 ## 1:30 pm: Seaborn
 
