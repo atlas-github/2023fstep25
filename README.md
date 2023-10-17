@@ -10,7 +10,7 @@ This is the main page I'll be using to run the session.
    3. What [problems](https://padlet.com/kohwyhow/what-problems-do-you-want-to-solve-gjcypqiq99ko1wke) do you want to solve?
 
 ## 09.00 am: Looker Studio
-   1. Create a Google account (you can use your personal one too, if you prefer)
+   1. [Create](https://mail.google.com/mail/) a Google account (you can use your personal one too, if you prefer)
    2. Head to [Looker Studio](https://datastudio.google.com/), using another tab
    3. Download as [CSV](https://docs.google.com/spreadsheets/d/1IaonaJj-c5Ud76Uc9WeRiMSlKLTNnbg-BCUxOoZrXn0/edit?usp=sharing) from here and upload to Looker Studio
    4. Build a few charts and filters
@@ -69,7 +69,8 @@ ___
 ___
     
 ## 2.15 pm: Send emails of weather data using Python
-   1. 
+   1. Need to [create](https://mail.google.com/mail/) another Google account, if you haven't already. Remember to activate 2-Step Verification](https://support.google.com/accounts/answer/185839)
+   2. 
     
 ## 4.15 pm: Wrap up
    1.  Data visualization and coding skills help to automate routine tasks - worth picking up to save time
