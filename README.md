@@ -25,24 +25,23 @@ This is the main page I'll be using to run the session.
        - Open question: Is the business doing better or worse off from 2014 to 2017?
     
    - Source: Superstore sample data from [Tableau](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
-
+___
 ## 3. 10.30 am: Break
-
-
+___
 ## 4. 10.50 am: Google Colab and Postman
 
-   
+___   
 ## 5. 12:30 pm: Break
-
+___
 
 ## 6. 1:15 pm: [data.gov.my](https://data.gov.my/dashboard)
 
 
 ## 7. 1:30 pm: Seaborn
 
-    
+___    
 ## 8. 2:00 pm: Break
-
+___
     
 ## 9. 2.15 pm: Send emails of weather data using Python
 
