@@ -6,7 +6,8 @@ This is the main page I'll be using to run the session.
 
 1. 08.30 am: Intro, career paths in data and questions
    - [This](https://docs.google.com/presentation/d/e/2PACX-1vRbfvQpTP4ARbARRWhOL6WZ6koCKSHvf5OxFyHcJjn8GHXG3OpuneEH6uMYlpxKX0H_sEfHB6KAKrkq/pub?start=true&loop=false&slide=id.g29007063b8d_0_118) is how my career is progressing so far
-  
+   - [Here](https://docs.google.com/presentation/d/e/2PACX-1vQp61itveaNmpuS4UMXIfaQshjMYBqywRP2aMWZjMlZy5v-iNOUouDMn_-z33RBwi2TeauhgEzGoep-/pub?start=false&loop=false)'s some information about career paths in data
+   - What [problems](https://padlet.com/kohwyhow/what-problems-do-you-want-to-solve-gjcypqiq99ko1wke) do you want to solve?
 
 1. 08.45 am: Looker Studio
 
