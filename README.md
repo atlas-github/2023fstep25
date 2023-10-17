@@ -101,11 +101,11 @@ ___
 
 ## 4.15 pm: Wrap up
    1.  Data visualization and coding skills help to automate routine tasks - worth picking up to save time
-      - Looker Studio / Power BI
-      - [Exam PL-300](https://learn.microsoft.com/en-us/certifications/exams/pl-300/): Microsoft Power BI Data Analyst 
-      - [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
+       - Looker Studio / Power BI
+       - [Exam PL-300](https://learn.microsoft.com/en-us/certifications/exams/pl-300/): Microsoft Power BI Data Analyst 
+       - [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
    2. Get certified for cloud computing
-      - [Google Cloud](https://cloud.google.com/certification)
-      - [Azure](https://docs.microsoft.com/en-us/learn/certifications/)
-      - [Amazon Web Services](https://aws.amazon.com/certification/)
+       - [Google Cloud](https://cloud.google.com/certification)
+       - [Azure](https://docs.microsoft.com/en-us/learn/certifications/)
+       - [Amazon Web Services](https://aws.amazon.com/certification/)
 
