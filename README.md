@@ -19,7 +19,7 @@ This is the main page I'll be using to run the session.
        - Which `cities` have generated the highest `sales`?
        - What are the `margins` by `segment`?
        - Make your dashboard look better using a [color palette generator](https://coolors.co/)
-    -Practice by creating another page named `Customer`, and using any chart/table:
+    - Practice by creating another page named `Customer`, and using any chart/table:
        - What is the name of the Customer with the Highest Sales in New York City?
        - What Sub-Category did this Customer buy, and how much Sales and Profit did this Customer generate for the company?
        - Open question: Is the business doing better or worse off from 2014 to 2017?
