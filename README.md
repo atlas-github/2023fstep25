@@ -45,6 +45,7 @@ ___
       - Code and text cells
       - Save
    - More about Colab’s Markdown here
+   - Refer to [colab_intro.ipynb](https://github.com/atlas-github/2023fstep25/blob/main/colab_intro.ipynb)
 ___   
 ## 12:30 pm: Break
 ___
