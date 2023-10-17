@@ -7,14 +7,10 @@ This is the main page I'll be using to run the session.
 1. 08.30 am: Intro, career paths in data and questions
 
     <details>
-      <summary>Here's how my career turned out so far</summary>
+      <summary>Here's how my [career](https://docs.google.com/presentation/d/1g-RFjnOMvLeoSHirN7lx_DZPyi4jkm-zmW4raDB9hy4/edit?usp=sharing) turned out so far</summary>
       
       ### Heading
-      1. Foo
-      2. Bar
-         * Baz
-         * Qux
-        <summary>Here's how my career turned out so far</summary>
+
     </details>
 
 2. 08.45 am: Looker Studio
