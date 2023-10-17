@@ -4,14 +4,15 @@ This is the main page I'll be using to run the session.
 
 # Agenda:
 
-1. 08.30 am: Career paths in data
-2. 08.45 am: Looker Studio
-3. 10.30 am: Break
-4. 10.50 am: Power BI Desktop
-5. 12:30 pm: Break
-6. 1:15 pm: Google Colab
-7. 1:30 pm: Seaborn
-8. 2:00 pm: Break
-9. 2.15 pm: Send emails of weather data using Python
-10. 4.15 pm: Wrap up
-
+<details>
+  <summary>1. 08.30 am: Intro, career paths and questions</summary>
+  <summary>2. 08.45 am: Looker Studio</summary>
+  <summary>3. 10.30 am: Break</summary>
+  <summary>4. 10.50 am: Power BI Desktop</summary>
+  <summary>6. 1:15 pm: Google Colab</summary>
+  <summary>7. 1:30 pm: Seaborn</summary>
+  <summary>8. 2:00 pm: Break</summary>
+  <summary>9. 2.15 pm: Send emails of weather data using Python</summary>
+  <summary>10. 4.15 pm: Wrap up</summary>
+  
+</details>
