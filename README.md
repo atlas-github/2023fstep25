@@ -1,7 +1,3 @@
-# Hi!
-
-This is the main page I'll be using to run the session.
-
 # Agenda:
 
 ## 08.30 am: Intro, career paths in data and questions
@@ -26,8 +22,10 @@ This is the main page I'll be using to run the session.
     
    - Source: Superstore sample data from [Tableau](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 ___
+
 ## 10.30 am: Break
 ___
+
 ## 10.50 am: Google Colab and Seaborn
    1. Using either your new Google account or your personal account, open [Google Colab](https://colab.research.google.com/) in another tab
    2. Google Colab's interface and functions:
@@ -58,6 +56,7 @@ ___
       - Adjust the size of charts by `sns.set(rc={'figure.figsize':(25.7,8.27)})`
       - Create a [boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot) where x-axis is `Sales`, and y-axis is `Region`
 ___   
+
 ## 12:30 pm: Break
 ___
 
@@ -65,13 +64,15 @@ ___
    1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/)
 
 ___    
+
 ## 2:00 pm: Break
 ___
     
 ## 2.15 pm: Send emails of weather data using Python
    1. Need to [create](https://mail.google.com/mail/) another Google account, if you haven't already. Remember to activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
    2. 
-    
+___
+
 ## 4.15 pm: Wrap up
    1.  Data visualization and coding skills help to automate routine tasks - worth picking up to save time
       - Looker Studio / Power BI
