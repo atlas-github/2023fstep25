@@ -69,7 +69,7 @@ ___
 ___
     
 ## 2.15 pm: Send emails of weather data using Python
-   1. Need to [create](https://mail.google.com/mail/) another Google account, if you haven't already. Remember to activate 2-Step Verification](https://support.google.com/accounts/answer/185839)
+   1. Need to [create](https://mail.google.com/mail/) another Google account, if you haven't already. Remember to activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
    2. 
     
 ## 4.15 pm: Wrap up
