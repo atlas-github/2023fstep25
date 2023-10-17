@@ -6,22 +6,22 @@ This is the main page I'll be using to run the session.
 
 1. 08.30 am: Intro, career paths in data and questions
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
+    <details>
+      <summary>Click me</summary>
+      
+      ### Heading
+      1. Foo
+      2. Bar
+         * Baz
+         * Qux
+    
+      ### Some Javascript
+      ```js
+      function logSomething(something) {
+        console.log('Something', something);
+      }
+      ```
+    </details>
 
 2. 08.45 am: Looker Studio
 4. 10.30 am: Break
