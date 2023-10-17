@@ -61,14 +61,40 @@ ___
 ___
 
 ## 1:30 pm: [data.gov.my](https://data.gov.my/dashboard)
-   1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/)
+   1. Using either your new Google account or your personal account, sign up for [Postman](https://www.postman.com/), then log in
+       - Look for Workspaces (top left of the page) >> My Workspace (Click)
+       - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/4144bc9c-1375-404e-9a39-747cd179724c)
+         
+       - Look for the + sign beside Overview
+       - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/3582e9e2-61d3-4925-811d-959303ffca23)
+         
+   2. Open [data.gov.my](https://data.gov.my/dashboard) using another tab on your browser >> API Docs
+   3. Scroll to Realtime APIs >> Flood Warning API
+   4. Try the Flood Warning API Endpoint `GET https://api.data.gov.my/flood-warning` on Postman
+        - Look for the icon circled in the snapshot below
+        - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/f68b0004-a86f-467a-8c0c-d0a5c47c09a5)
+     
+        - Switch from cURL to Python - Requests
+        - ![image](https://github.com/atlas-github/2023fstep25/assets/50855923/225b80ec-0323-42ad-8eb0-67c9d5ae0d85)
+     
+        - Copy the Python code from Postman and paste into a new [Colab notebook](https://colab.research.google.com/)
+
+   5. Change `print(response.text)` to `response.json()` to see the data returned by the API endpoint
+   6. Tasks:
+      - Convert json output into a dataframe using `pd.json_normalize()`
+      - Store dataframe into a variable `df`
+      - Filter to include only `df[(df["water_level_indicator"] == "NORMAL")]` and today's date
+      - Output into a CSV file, then download and open in Excel and [Google My Maps](https://www.google.com/maps/d/)
+      - The nearest river to our current location is Sungai Gombak, spot which station_id is it
+      - What other questions can you answer?
+      - Don't forget to try using the [Weather API](https://developer.data.gov.my/realtime-api/weather) 
 
 ___    
 
-## 2:00 pm: Break
+## 2:30 pm: Break
 ___
     
-## 2.15 pm: Send emails of weather data using Python
+## 2.50 pm: Send emails of weather data using Python
    1. Need to [create](https://mail.google.com/mail/) another Google account, if you haven't already. Remember to activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
    2. 
 ___
