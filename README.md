@@ -94,7 +94,7 @@ ___
 ## 2:30 pm: Break
 ___
     
-## 2.50 pm: Send emails of weather data using Python
+## 2.50 pm: Send emails of Air Pollution Index (API) data using Python
    1. Need to [create](https://mail.google.com/mail/) another Google account, if you haven't already. Remember to activate [2-Step Verification](https://support.google.com/accounts/answer/185839)
    2. Refer to Sending a [Plain-Text Email](https://realpython.com/python-send-email/). Look for the code section just above the **Sending a Fancy Email** header.
    3. Register for an account on [aciqn](https://aqicn.org/api/)
